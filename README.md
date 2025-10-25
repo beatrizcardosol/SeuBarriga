@@ -18,6 +18,15 @@ Ela é amplamente utilizada para **treinamento e prática de automação de test
 
 ---
 
+## Membros da atividade
+
+- Ana Beatriz Cardoso
+- Alex Souza
+- Talita Gomes
+- Maria Eduarda 
+
+---
+
 ## 🧩 Funcionalidade sob minha responsabilidade
 
 Neste projeto, fiquei responsável por automatizar a **funcionalidade de criação de movimentações financeiras**.  
@@ -29,7 +38,6 @@ Os testes verificam se o sistema responde corretamente em diferentes cenários, 
 |------|----------------------------------------------------------------|-----------|------------------------------------------------------------|
 | CT01 | Criação de movimentação com todos os campos válidos            | Positivo  | Exibir mensagem de sucesso e cadastrar movimentação        |
 | CT02 | Criação de movimentação com campos obrigatórios em branco      | Negativo  | Exibir mensagens de erro informando os campos obrigatórios |
-| CT03 | Criação de movimentação com data inválida                      | Negativo  | Exibir alerta de data inválida                             |
 | CT09 | Criação de movimentação com campo **Valor** preenchido com letras | Negativo  | Exibir mensagem “Valor deve ser um número”                 |
 
 ---
